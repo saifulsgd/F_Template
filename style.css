@@ -1,0 +1,120 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+ 
+ .main-container{
+    max-width: 1028px;
+    min-width: 400px;
+    margin: auto;
+ }
+.top{
+    height: 55px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 30px;
+    font-size: 11px;
+}
+.col-md-7 ul li a{
+    font-size: 11px;
+    font-weight: bold;
+}
+.body-1{
+    height: 400px;
+    background-image:linear-gradient(rgba(131, 217, 131, 0.5),rgba(155, 83, 155, 0.5) ), url("images/slide_05.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 30px;
+}
+.body-1>p{
+     font-family: "Great Vibes", cursive;
+}
+.col-md-12 h1{
+    padding-top: 10%;
+}
+.spic{
+    float: left;
+}
+.body-2 a{
+    text-decoration: none;
+}
+.stt{
+    font-size: 12px;
+}
+.stt1{
+    font-size: 11px;
+    line-height: 10px;
+}
+.pich{
+    height: 350px;
+}
+object{
+    width: 100%;
+}
+img{
+    width: 100%;
+    border: 2px solid #fff;
+    border-radius: 10px;
+    box-shadow: -2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+.sbt{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.des{
+   line-height: 10px;
+}
+.sht{
+    text-decoration: none;
+}
+.right-ft{
+    width: 350px;
+    float: right;
+    padding-bottom: 50px;
+}
+.footer{
+    height: 350px;
+    background-color: rgb(12, 44, 44);
+    border-top-left-radius: 30px;
+    border-top-right-radius: 50px;
+}
+body{
+    position: relative;
+}
+.heading{
+     font-family: "Great Vibes", cursive;
+}
+.ppf{
+    width: 40px;
+    height: 40px;
+    background-color:dodgerblue ;
+    position: absolute;
+    right: 25px;
+    bottom: 25px;
+    position: fixed;
+    cursor: pointer;
+    border-radius: 50%;
+}
+.ppf:hover{
+    background-color: rgb(9, 240, 9);
+}
+
+.ing:hover{
+    background-image: linear-gradient(to left bottom,#405DE6,#5B51D8,#833AB4,#C13584,#E1306C,#FD1D1D,#F56040,#777737,#FCAF45,#FFDC80);
+}
+.heading{
+    position: sticky;
+    top: 0;
+}
+.nain-tags{
+    position: sticky;
+    top: 0;
+}
+header{
+    background-color: #fff;
+    position: sticky;
+    top: 0;
+}
+
+
+
+
